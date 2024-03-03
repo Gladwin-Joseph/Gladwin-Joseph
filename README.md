@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" height="250" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" >
 <p>An aspiring software developer. Bringing a growth mindset and<br> eagerness to learn to the table. As a tech newbie brimming with ideas, <br> and since I've loved designing and bringing things to life from an early<br>age, and after being introduced to a computer and  how much power <br>a marvelous piece of machinery can do, the love for coding and<br>bringing things to life from just a thought fascinates me. My skills are <br>versatile as i like to explore and learn new technologies, but i specialize<br>in javascript and it's frameworks and python. If I'm not crafting a new <br>app I'm probably thinking about the universe and we just merely <br>existing in this marvelous and splendid world.</p>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gladwin._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gladwin-joseph/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Gladwin-Joseph-18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Insightfullnk) 
 
 # 💻 Technologies:
